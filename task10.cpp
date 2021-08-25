@@ -58,6 +58,5 @@ int main()
 
     int A[] = {1,1,1,1,11,11};
     int N = sizeof(A) / sizeof(A[0]);
-
     cout << ElementCnt(A, N);
 }
